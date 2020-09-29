@@ -1,0 +1,532 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CodeLights Pegalinas\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-29 21:46+0000\n"
+"PO-Revision-Date: 2020-09-29 22:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español de México\n"
+"Language: es-MX\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.4.2"
+
+#: config/elements.php:103 config/elements.php:110
+#, php-format
+msgid "%s icon"
+msgstr "%s icono"
+
+#: templates/eform/images.php:25
+#, fuzzy
+msgid "Add image"
+msgstr "Añadir imagen"
+
+#: templates/eform/images.php:25
+#, fuzzy
+msgid "Add images"
+msgstr "Añadir imágenes"
+
+#: config/elements.php:22
+#, fuzzy
+msgid "Add link as a button on the Back Side"
+msgstr "Agregar enlace como un botón en la parte posterior"
+
+#: config/elements.php:21
+#, fuzzy
+msgid "Add link to the whole FlipBox"
+msgstr "Agregar enlace a todo el FlipBox"
+
+#: config/elements.php:418
+#, fuzzy
+msgid "Alignment"
+msgstr "Alineación"
+
+#: config/elements.php:381
+#, fuzzy
+msgid "Animation Delay"
+msgstr "Retraso de animación"
+
+#: config/elements.php:61
+#, fuzzy
+msgid "Animation Direction"
+msgstr "Dirección de animación"
+
+#: config/elements.php:77 config/elements.php:374
+#, fuzzy
+msgid "Animation Duration"
+msgstr "Duración de la animación"
+
+#: config/elements.php:84
+#, fuzzy
+msgid "Animation Easing"
+msgstr "Facilitación de la animación"
+
+#: config/elements.php:50 config/elements.php:362
+#, fuzzy
+msgid "Animation Type"
+msgstr "Tipo de animación"
+
+#: functions/helpers.php:313 functions/helpers.php:315
+#, fuzzy
+msgid "Any"
+msgstr "Algun"
+
+#: config/elements.php:399
+#, fuzzy
+msgid "Applied when the screen width is less than 600px"
+msgstr "Se aplica cuando el ancho de la pantalla es inferior a 600 px"
+
+#: config/elements.php:227 config/elements.php:234 config/elements.php:239 
+#: config/elements.php:249 config/elements.php:254 config/elements.php:259 
+#: config/elements.php:265 config/elements.php:273
+#, fuzzy
+msgid "Back Side"
+msgstr "Lado trasero"
+
+#: config/elements.php:196 config/elements.php:252
+#, fuzzy
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: config/elements.php:206 config/elements.php:262
+#, fuzzy
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: config/elements.php:406
+#, fuzzy
+msgid "Basic Text Color"
+msgstr "Color de texto básico"
+
+#: config/elements.php:357
+#, fuzzy
+msgid "Bold Dynamic Text"
+msgstr "Texto dinámico en negrita"
+
+#: config/elements.php:317
+#, fuzzy
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: config/elements.php:310
+#, fuzzy
+msgid "Border Width"
+msgstr "Ancho del borde"
+
+#: config/elements.php:245 config/elements.php:246 config/elements.php:247
+#, fuzzy
+msgid "Button (if set)"
+msgstr "Botón (si está configurado)"
+
+#: config/elements.php:38
+#, fuzzy
+msgid "Button Background Color"
+msgstr "Color de fondo del botón"
+
+#: config/elements.php:32
+#, fuzzy
+msgid "Button Label"
+msgstr "Etiqueta de botón"
+
+#: config/elements.php:44
+#, fuzzy
+msgid "Button Text Color"
+msgstr "Color del texto del botón"
+
+#: config/elements.php:53
+#, fuzzy
+msgid "Card Flip"
+msgstr "Flip de tarjeta"
+
+#: config/elements.php:422
+#, fuzzy
+msgid "Center"
+msgstr "Centrar"
+
+#: config/elements.php:297
+#, fuzzy
+msgid "Center the content vertically"
+msgstr "Centrar el contenido verticalmente"
+
+#: config/elements.php:128
+#, fuzzy
+msgid "Circle Background"
+msgstr "Fondo del círculo"
+
+#: templates/ebuilder.php:20
+#, fuzzy
+msgid "Close"
+msgstr "Cerrar"
+
+#. Name of the plugin
+msgid "CodeLights Pegalinas"
+msgstr ""
+
+#: config/elements.php:303
+msgid "Corners Radius"
+msgstr "Esquinas redondeadas"
+
+#: config/elements.php:56
+msgid "Cover Open"
+msgstr "Tapa abierta"
+
+#: functions/helpers.php:316
+#, fuzzy
+msgid "cropped"
+msgstr "Cortar"
+
+#: config/elements.php:55
+msgid "Cube Flip"
+msgstr ""
+
+#: config/elements.php:54
+#, fuzzy
+msgid "Cube Tilt"
+msgstr "Inclinación del cubo"
+
+#: config/elements.php:104
+#, fuzzy
+msgid "Custom Image"
+msgstr "Imagen personalizada"
+
+#: config/elements.php:181 config/elements.php:189 config/elements.php:190 
+#: config/elements.php:191 config/elements.php:237 config/elements.php:245 
+#: config/elements.php:246 config/elements.php:247
+#, fuzzy
+msgid "Description"
+msgstr "Descripcion"
+
+#: config/elements.php:68
+#, fuzzy
+msgid "Down"
+msgstr "Abajo"
+
+#: config/elements.php:69
+#, fuzzy
+msgid "Down-Left"
+msgstr "Abajo a la izquierda"
+
+#: config/elements.php:67
+#, fuzzy
+msgid "Down-Right"
+msgstr "Abajo a la derecha"
+
+#: config/elements.php:412
+#, fuzzy
+msgid "Dynamic Text Color"
+msgstr "Color de texto dinámico"
+
+#: config/elements.php:349
+#, fuzzy
+msgid "Each state from a new line"
+msgstr "Estado de una nueva línea"
+
+#: config/elements.php:186 config/elements.php:242
+#, fuzzy
+msgid "Elements Order"
+msgstr "Orden de elementos"
+
+#: config/elements.php:331 config/elements.php:447
+#, fuzzy
+msgid "Extra CSS class"
+msgstr "Clase de CSS adicional"
+
+#: config/elements.php:365
+#, fuzzy
+msgid "Fade in the whole part"
+msgstr "Desvanecerse en toda la parte"
+
+#. Description of the plugin
+#, fuzzy
+msgid ""
+"Flexible high-end shortcodes and widgets. Responsive, modern, SEO-optimized "
+"and easy-to-use."
+msgstr ""
+"Códigos cortos y widgets flexibles de gama alta. Responsivo, moderno, "
+"optimizado para SEO y fácil de usar."
+
+#: config/elements.php:367
+#, fuzzy
+msgid "Flip character by character"
+msgstr "Voltear caracter a caracter"
+
+#: config/elements.php:366
+#, fuzzy
+msgid "Flip the whole part"
+msgstr "Voltea toda la parte"
+
+#: config/elements.php:7
+msgid "FlipBox"
+msgstr ""
+
+#: config/elements.php:106 config/elements.php:112 config/elements.php:120 
+#: config/elements.php:132 config/elements.php:139 config/elements.php:146 
+#: config/elements.php:153 config/elements.php:162 config/elements.php:171 
+#: config/elements.php:178 config/elements.php:183 config/elements.php:193 
+#: config/elements.php:198 config/elements.php:203 config/elements.php:209 
+#: config/elements.php:217
+#, fuzzy
+msgid "Front Side"
+msgstr "Lado delantero"
+
+#: functions/helpers.php:306
+#, fuzzy
+msgid "Full Size"
+msgstr "Tamaño completo"
+
+#: templates/eform/eform.php:39
+msgid "General"
+msgstr ""
+
+#. Author of the plugin
+msgid "Guillermo Sánchez Pastén"
+msgstr ""
+
+#: config/elements.php:287
+#, fuzzy
+msgid "Height"
+msgstr "Altura"
+
+#. Author URI of the plugin
+msgid "https://github.com/GuillermoSP96"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/GuillermoSP96/codelights.git"
+msgstr ""
+
+#: config/elements.php:99 config/elements.php:189 config/elements.php:190 
+#: config/elements.php:191
+#, fuzzy
+msgid "Icon"
+msgstr "Icono"
+
+#: config/elements.php:143
+#, fuzzy
+msgid "Icon Background Color"
+msgstr "Color de fondo del icono"
+
+#: config/elements.php:136
+#, fuzzy
+msgid "Icon Color"
+msgstr "Color del icono"
+
+#: config/elements.php:109
+#, fuzzy
+msgid "Icon Name"
+msgstr "Nombre del icónico"
+
+#: config/elements.php:116
+#, fuzzy
+msgid "Icon Size"
+msgstr "Tamaño de ícono"
+
+#: config/elements.php:124
+#, fuzzy
+msgid "Icon Style"
+msgstr "Estilo de icono"
+
+#: config/elements.php:150
+#, fuzzy
+msgid "Image"
+msgstr "Imagen"
+
+#: config/elements.php:212 config/elements.php:268
+#, fuzzy
+msgid "Image Size"
+msgstr "Tamaño de la imagen"
+
+#: config/elements.php:157
+#, fuzzy
+msgid "Image Width"
+msgstr "Ancho de la imagen"
+
+#: config/elements.php:78 config/elements.php:375
+#, fuzzy
+msgid "In milliseconds"
+msgstr "En milisegundos"
+
+#: config/elements.php:158 config/elements.php:280 config/elements.php:324
+#, fuzzy
+msgid "In pixels or percents"
+msgstr "En píxeles o porcentajes"
+
+#: config/elements.php:382
+#, fuzzy
+msgid "In seconds"
+msgstr "En segudos "
+
+#: templates/eform/link.php:24
+#, fuzzy
+msgid "Insert link"
+msgstr "Insertar el link"
+
+#: templates/elist.php:11
+#, fuzzy
+msgid "Insert shortcode"
+msgstr "Insertar código corto"
+
+#: config/elements.php:338
+msgid "Interactive Text"
+msgstr ""
+
+#: functions/helpers.php:303
+#, fuzzy
+msgid "Large"
+msgstr "Grande"
+
+#: config/elements.php:288
+#, fuzzy
+msgid "Leave blank to use front height"
+msgstr "Déjelo en blanco para usar la altura frontal"
+
+#: config/elements.php:70 config/elements.php:421
+#, fuzzy
+msgid "Left"
+msgstr "Izquierda"
+
+#: config/elements.php:17
+msgid "Link"
+msgstr ""
+
+#: config/elements.php:27
+msgid "Link URL"
+msgstr ""
+
+#: functions/helpers.php:304
+#, fuzzy
+msgid "Medium"
+msgstr "Medio"
+
+#: config/elements.php:20 config/elements.php:102
+#, fuzzy
+msgid "None"
+msgstr "Ninguno"
+
+#: functions/helpers.php:316
+#, fuzzy
+msgid "not cropped"
+msgstr "No recortado"
+
+#: config/elements.php:323
+#, fuzzy
+msgid "Padding"
+msgstr "Relleno"
+
+#: config/elements.php:66 config/elements.php:423
+#, fuzzy
+msgid "Right"
+msgstr "Derecha"
+
+#: templates/ebuilder.php:21
+#, fuzzy
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: config/elements.php:127
+msgid "Simple"
+msgstr ""
+
+#: config/elements.php:129
+#, fuzzy
+msgid "Square Background"
+msgstr "Fondo Cuadrado"
+
+#: config/elements.php:284 config/elements.php:292 config/elements.php:300 
+#: config/elements.php:307 config/elements.php:314 config/elements.php:320 
+#: config/elements.php:328 config/elements.php:333 config/elements.php:395 
+#: config/elements.php:403 config/elements.php:409 config/elements.php:415 
+#: config/elements.php:427 config/elements.php:444 config/elements.php:449
+#, fuzzy
+msgid "Style"
+msgstr "Estilo"
+
+#: config/elements.php:430
+#, fuzzy
+msgid "Tag Name"
+msgstr "Nombre de etiqueta"
+
+#: config/elements.php:201 config/elements.php:257
+#, fuzzy
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: config/elements.php:391
+#, fuzzy
+msgid "Text Size"
+msgstr "Tamano del texto"
+
+#: config/elements.php:398
+#, fuzzy
+msgid "Text Size for Mobiles"
+msgstr "Tamaño de texto para móviles"
+
+#: config/elements.php:348
+#, fuzzy
+msgid "Text States"
+msgstr "Estados de texto"
+
+#: functions/helpers.php:305
+#, fuzzy
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: config/elements.php:166 config/elements.php:189 config/elements.php:190 
+#: config/elements.php:191 config/elements.php:223 config/elements.php:245 
+#: config/elements.php:246 config/elements.php:247
+#, fuzzy
+msgid "Title"
+msgstr "Titulo"
+
+#: config/elements.php:174 config/elements.php:230
+#, fuzzy
+msgid "Title Size"
+msgstr "Tamaño del título"
+
+#: config/elements.php:8
+#, fuzzy
+msgid "Two-sided content element, flipping on hover"
+msgstr "Elemento de contenido de dos caras, voltear al pasar el mouse"
+
+#: config/elements.php:64
+#, fuzzy
+msgid "Up"
+msgstr "Arriba"
+
+#: config/elements.php:71
+#, fuzzy
+msgid "Up-Left"
+msgstr "Arriba a la izquierda"
+
+#: config/elements.php:65
+#, fuzzy
+msgid "Up-Right"
+msgstr "Arriba a la derecha"
+
+#: functions/class-cl-widget.php:24
+#, fuzzy
+msgid "Widget Title"
+msgstr "Título del widget"
+
+#: config/elements.php:279
+#, fuzzy
+msgid "Width"
+msgstr "Ancho"
+
+#: templates/eform/checkboxes.php:12
+#, fuzzy
+msgid "Yes"
+msgstr "Si"
+
+#: config/elements.php:369
+#, fuzzy
+msgid "Zoom in character by character"
+msgstr "Acercar caracter a caracter"
+
+#: config/elements.php:368
+#, fuzzy
+msgid "Zoom in the whole part"
+msgstr "Zoom en toda la parte"
